@@ -1,0 +1,9 @@
+
+platform :ios,'8.0'
+target "VideoTest" do
+pod 'SDWebImage','~>4.0.0'
+pod 'MJRefresh', '~> 3.1.15'
+pod 'Masonry','~> 0.6.3'
+pod 'UMengAnalytics', '~> 4.1.0'
+pod 'SDAutoLayout', '~> 2.2.0'
+end

@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (0.6.4)
+  - MJRefresh (3.1.15.1)
+  - SDAutoLayout (2.2.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - UMengAnalytics (4.1.10)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.3)
+  - MJRefresh (~> 3.1.15)
+  - SDAutoLayout (~> 2.2.0)
+  - SDWebImage (~> 4.0.0)
+  - UMengAnalytics (~> 4.1.0)
+
+SPEC CHECKSUMS:
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  UMengAnalytics: 40585031b7eb085534c68a951b394731e7166257
+
+PODFILE CHECKSUM: 7f1a93386effb54e9b60e7c4de63040bf096b4b3
+
+COCOAPODS: 1.2.0
